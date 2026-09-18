@@ -11,3 +11,5 @@ Phones copied from each operator site. Do not invent inboxes.
 | Baird Foundation Repair Houston | 713-533-8174 | not next to Houston phone | bairdfoundationrepair.com | https://www.bairdfoundationrepair.com/get-in-touch/ |
 | Bonilla Foundation Repair | 713-434-8432 | bonillafoundation@sbcglobal.net | bonillafoundationrepair.com | https://www.bonillafoundationrepair.com/contact-us |
 | Cardinal Foundation Services | 972-656-8251 | info@cardinalfoundationservices.com | cardinalfoundationservices.com | https://cardinalfoundationservices.com/residential/foundation-repair/helical-piers/ |
+| R.L. Nelson Foundation Solutions | 281-420-1739 | info@foundationrepair.com | foundationrepair.com | https://www.foundationrepair.com/contact-us/ |
+| Leon Foundation Repair | 832-398-6280 | Info@leonfoundationrepair.com | leonfoundationrepair.com | https://leonfoundationrepair.com/contact-us/ |
