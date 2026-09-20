@@ -9,11 +9,11 @@ Href: https://usabandit33.github.io/engineer-first/
 ## Sequence status
 | Company | Email | Phone | Domain | T1 | T2 | T3 | T4 | Notes |
 |---------|-------|-------|--------|----|----|----|----|-------|
-| Allied Foundation Repair | slab82@alliedfoundation.net | 281-238-5010 | crackedslab.com | **2026-09-17** | due ~09-20/21 | due ~09-24/27 | due ~09-30/01 | |
-| Bonilla Foundation Repair | bonillafoundation@sbcglobal.net | 713-434-8432 | bonillafoundationrepair.com | **2026-09-17** | due ~09-20/21 | due ~09-24/27 | due ~09-30/01 | |
-| Cardinal Foundation Services | info@cardinalfoundationservices.com | 972-656-8251 | cardinalfoundationservices.com | **2026-09-17** | due ~09-20/21 | due ~09-24/27 | due ~09-30/01 | |
-| R.L. Nelson Foundation Solutions | info@foundationrepair.com | 281-420-1739 | foundationrepair.com | **2026-09-17** | due ~09-20/21 | due ~09-24/27 | due ~09-30/01 | |
-| Leon Foundation Repair | Info@leonfoundationrepair.com | 832-398-6280 | leonfoundationrepair.com | **2026-09-17** | due ~09-20/21 | due ~09-24/27 | due ~09-30/01 | |
+| Allied Foundation Repair | slab82@alliedfoundation.net | 281-238-5010 | crackedslab.com | **2026-09-17** | **2026-09-20** | due ~09-24/27 | due ~09-30/01 | |
+| Bonilla Foundation Repair | bonillafoundation@sbcglobal.net | 713-434-8432 | bonillafoundationrepair.com | **2026-09-17** | **2026-09-20** | due ~09-24/27 | due ~09-30/01 | |
+| Cardinal Foundation Services | info@cardinalfoundationservices.com | 972-656-8251 | cardinalfoundationservices.com | **2026-09-17** | **2026-09-20** | due ~09-24/27 | due ~09-30/01 | |
+| R.L. Nelson Foundation Solutions | info@foundationrepair.com | 281-420-1739 | foundationrepair.com | **2026-09-17** | **2026-09-20** | due ~09-24/27 | due ~09-30/01 | |
+| Leon Foundation Repair | Info@leonfoundationrepair.com | 832-398-6280 | leonfoundationrepair.com | **2026-09-17** | **2026-09-20** | due ~09-24/27 | due ~09-30/01 | |
 | Two Brothers | — | 832-710-6957 | twobrosfoundationrepair.com | hold | | | | no shop-site inbox |
 | CoreTech | — | 281-984-4332 | coretechfoundationrepair.com | hold | | | | form only |
 | Level Check | — | 281-843-4314 | levelcheckfoundation.com | hold | | | | form only |
@@ -22,3 +22,4 @@ Href: https://usabandit33.github.io/engineer-first/
 ## Log
 - 2026-09-17: Site shipped. No T1 until Pages HTTP 200.
 - 2026-09-17 evening: Pages HTTP 200. Added R.L. Nelson + Leon. T1 ×5.
+- 2026-09-20: T2 ×5.
